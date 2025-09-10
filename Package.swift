@@ -38,7 +38,7 @@ let products: [Product] = [
 
 let dependencies: [Package.Dependency] = [
   .package(
-    url: "https://github.com/grpc/grpc-swift-2.git",
+    url: "https://github.com/denis-burdin/grpc-swift-2",
     from: "2.0.0"
   ),
   .package(
